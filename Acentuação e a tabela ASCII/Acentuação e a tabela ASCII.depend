@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672072516 source:c:\users\pc gamer\downloads\acentuação e a tabela ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
