@@ -25,7 +25,7 @@ int main()
         printf("Saindo..\n");
         break;
     default:
-        printf("Opcao invalida!\n");
+        printf("Opcao invalida!\        An");
 
 
 
