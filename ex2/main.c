@@ -6,9 +6,13 @@ int main()
     int a, b, c;
     int maior;
     int menor;
+    int valor;
+
+
 
     printf("Digite tres valores: ");
     scanf("%d%d%d", &a, &b, &c);
+
 
     if(a < b) {
         if(a < c)
