@@ -5,6 +5,7 @@ int main()
 {
     int dias;
 
+    printf("Fevereiro == 28 dias")
     printf("Digite a quantidade de messes \"de 1 a 12\": ");
     scanf("%d", &dias);
 
@@ -12,46 +13,46 @@ int main()
     switch(dias) {
 
 case 1:
-    printf("\nUm mes tem \"30 dias\" ");
+    printf("\nUm mes tem \"28 dias\" ");
     break;
 
 case 2:
-    printf("\nDois messes tem \"60 dias\" ");
+    printf("\nDois messes tem \"58 dias\" ");
     break;
 case 3:
-    printf("\nTres messes tem \"90 dias\" ");
+    printf("\nTres messes tem \"88 dias\" ");
     break;
 
 case 4:
-    printf("\nQuatro messes tem \"120 dias\" ");
+    printf("\nQuatro messes tem \"108 dias\" ");
     break;
 
 case 5:
-    printf("\nCinco messes tem \"150 dias\" ");
+    printf("\nCinco messes tem \"138 dias\" ");
     break;
 
 case 6:
-    printf("\nSeis messes tem \"180 dias\" ");
+    printf("\nSeis messes tem \"168 dias\" ");
     break;
 
 case 7:
-    printf("\nSete messes tem \"210 dias\" ");
+    printf("\nSete messes tem \"198 dias\" ");
     break;
 
 case 8:
-    printf("\nOuto messes tem \"240 \" ");
+    printf("\nOuto messes tem \"228 \" ");
     break;
 
 case 9:
-    printf("\nNove messes tem \"270 dias \" ");
+    printf("\nNove messes tem \"258 dias \" ");
     break;
 
 case 10:
-    printf("\nDez messes tem \"300 dias \" ");
+    printf("\nDez messes tem \"288 dias \" ");
     break;
 
 case 11:
-    printf("\nOnze messes tem \"330 dias\" ");
+    printf("\nOnze messes tem \"308 dias\" ");
     break;
 
 case 12:
